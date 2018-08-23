@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1105f98d-7594-4f8d-ade3-e0cc4f32e51b" name="Default" comment="" />
+    <list default="true" id="1105f98d-7594-4f8d-ade3-e0cc4f32e51b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Agregacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Binary_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Binary_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bubble_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bubble_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factorial_number_silnia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorial_number_silnia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Insertion_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Linear_Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Selection_Sort.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +22,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Prime_Numbers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Prime_Numbers.java">
+      <file leaf-file-name="Linear_Search.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary_Search.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agregacja.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Agregacja.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+              <folding>
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Super.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Super.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,6 +75,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -38,6 +86,14 @@
         <option value="$PROJECT_DIR$/src/Fibonacci_Series.java" />
         <option value="$PROJECT_DIR$/src/Fibonacci_Recursion.java" />
         <option value="$PROJECT_DIR$/src/Prime_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/Factorial_number_silnia.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Selection_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Insertion_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Linear_Search.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Search.java" />
+        <option value="$PROJECT_DIR$/src/Agregacja.java" />
+        <option value="$PROJECT_DIR$/src/Super.java" />
       </list>
     </option>
   </component>
@@ -51,16 +107,21 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="271" />
-    <option name="y" value="60" />
-    <option name="width" value="1057" />
+    <option name="x" value="444" />
+    <option name="y" value="64" />
+    <option name="width" value="1327" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,8 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -100,29 +159,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prime_Numbers">
-    <configuration name="Fibonacci_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci_Recursion" />
+  <component name="RunManager" selected="Application.Agregacja">
+    <configuration name="Agregacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Agregacja" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci_Series" />
+    <configuration name="Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary_Search" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Prime_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prime_Numbers" />
+    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insertion_Sort" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch" />
+    <configuration name="Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linear_Search" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Switch_Nasted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch_Nasted" />
+    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selection_Sort" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -168,19 +227,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Switch_Nasted" />
-      <item itemvalue="Application.Switch" />
-      <item itemvalue="Application.Fibonacci_Series" />
-      <item itemvalue="Application.Fibonacci_Recursion" />
-      <item itemvalue="Application.Prime_Numbers" />
+      <item itemvalue="Application.Selection_Sort" />
+      <item itemvalue="Application.Insertion_Sort" />
+      <item itemvalue="Application.Linear_Search" />
+      <item itemvalue="Application.Binary_Search" />
+      <item itemvalue="Application.Agregacja" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Prime_Numbers" />
-        <item itemvalue="Application.Fibonacci_Recursion" />
-        <item itemvalue="Application.Fibonacci_Series" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.Switch_Nasted" />
+        <item itemvalue="Application.Agregacja" />
+        <item itemvalue="Application.Binary_Search" />
+        <item itemvalue="Application.Linear_Search" />
+        <item itemvalue="Application.Insertion_Sort" />
+        <item itemvalue="Application.Selection_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -195,45 +254,46 @@
       <option name="presentableId" value="Default" />
       <updated>1534856554419</updated>
       <workItem from="1534856559554" duration="5310000" />
-      <workItem from="1534938725885" duration="1563000" />
+      <workItem from="1534938725885" duration="7321000" />
+      <workItem from="1535014526386" duration="5063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6873000" />
+    <option name="totallyTimeSpent" value="17694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="271" y="60" width="1057" height="1000" extended-state="0" />
+    <frame x="444" y="64" width="1327" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2621469" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24975985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23112129" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39887005" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39887005" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +303,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Switch_Nasted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
@@ -314,8 +388,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Prime_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factorial_number_silnia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Selection_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Insertion_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Agregacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Super.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
