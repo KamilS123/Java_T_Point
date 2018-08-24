@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="408936f5-3888-43ea-aa34-18c44f1af3d4" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
@@ -23,6 +24,15 @@
       <change beforePath="$PROJECT_DIR$/src/Fibonacci_Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programs/Fibonacci_Series.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Linear_Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Linear_Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/Selection_Sort.java" afterDir="false" />
+=======
+    <list default="true" id="1105f98d-7594-4f8d-ade3-e0cc4f32e51b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Interfacee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/Mathem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super.java" afterDir="false" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +47,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="this_keyword.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/this_keyword.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,10 +80,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
+=======
+      <file leaf-file-name="Linear_Search.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Inheritance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Inheritance.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,19 +101,35 @@
                 <element signature="e#269#270#0" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="Binary_Search.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Polimorfizm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Polimorfizm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+=======
+      <file leaf-file-name="Agregacja.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Agregacja.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Polimorfizm_Shape.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Polimorfizm_Shape.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +140,22 @@
                 <element signature="e#75#76#0" expanded="true" />
                 <element signature="e#301#302#0" expanded="true" />
                 <element signature="e#353#354#0" expanded="true" />
+=======
+      <file leaf-file-name="Super.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Super.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Instance_of.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Instance_of.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,25 +166,61 @@
                 <element signature="e#46#47#0" expanded="true" />
                 <element signature="e#57#58#0" expanded="true" />
                 <element signature="e#93#94#0" expanded="true" />
+=======
+      <file leaf-file-name="Interfacee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interface/Interfacee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Selection_Sort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Search/Selection_Sort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+      <file leaf-file-name="Interface2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interface/Interface2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Linear_Search.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Search/Linear_Search.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+      <file leaf-file-name="Mathem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Math/Mathem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
             </state>
           </provider>
         </entry>
@@ -158,6 +240,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/this_keyword.java" />
         <option value="$PROJECT_DIR$/src/Reusing_constructor.java" />
         <option value="$PROJECT_DIR$/src/Inheritance.java" />
@@ -165,6 +248,26 @@
         <option value="$PROJECT_DIR$/src/Polimorfizm_Shape.java" />
         <option value="$PROJECT_DIR$/src/instance_of.java" />
         <option value="$PROJECT_DIR$/src/Instance_of.java" />
+=======
+        <option value="$PROJECT_DIR$/src/Switch_Nasted.java" />
+        <option value="$PROJECT_DIR$/src/Switch.java" />
+        <option value="$PROJECT_DIR$/src/Fibonacci_Series.java" />
+        <option value="$PROJECT_DIR$/src/Fibonacci_Recursion.java" />
+        <option value="$PROJECT_DIR$/src/Prime_Numbers.java" />
+        <option value="$PROJECT_DIR$/src/Factorial_number_silnia.java" />
+        <option value="$PROJECT_DIR$/src/Bubble_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Selection_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Insertion_Sort.java" />
+        <option value="$PROJECT_DIR$/src/Linear_Search.java" />
+        <option value="$PROJECT_DIR$/src/Binary_Search.java" />
+        <option value="$PROJECT_DIR$/src/Agregacja.java" />
+        <option value="$PROJECT_DIR$/src/Super.java" />
+        <option value="$PROJECT_DIR$/src/Interfacee.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interfacee.java" />
+        <option value="$PROJECT_DIR$/src/Interface/Interface2.java" />
+        <option value="$PROJECT_DIR$/src/Math/Math.java" />
+        <option value="$PROJECT_DIR$/src/Math/Mathem.java" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
       </list>
     </option>
   </component>
@@ -178,11 +281,21 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-960" />
     <option name="width" value="959" />
     <option name="height" value="1081" />
   </component>
   <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+=======
+    <option name="x" value="444" />
+    <option name="y" value="64" />
+    <option name="width" value="1327" />
+    <option name="height" value="1000" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -202,6 +315,18 @@
               <item name="Java_T_Point" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_T_Point" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_T_Point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_T_Point" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_T_Point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_T_Point" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,6 +354,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Instance_of">
     <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance" />
@@ -237,9 +363,26 @@
     </configuration>
     <configuration name="Instance_of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Instance_of" />
+=======
+  <component name="RunManager" selected="Application.Mathem">
+    <configuration name="Agregacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Agregacja" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Interface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.Interface2" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
+      <module name="Java_T_Point" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="Polimorfizm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Polimorfizm" />
       <module name="Java_T_Point" />
@@ -247,11 +390,31 @@
     </configuration>
     <configuration name="Polimorfizm_Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Polimorfizm_Shape" />
+=======
+    <configuration name="Interfacee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.Interfacee" />
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Mathem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.Mathem" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
+      <module name="Java_T_Point" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+<<<<<<< HEAD
     <configuration name="Reusing_constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reusing_constructor" />
+=======
+    <configuration name="Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
       <module name="Java_T_Point" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -297,6 +460,7 @@
       <listeners />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.Reusing_constructor" />
       <item itemvalue="Application.Inheritance" />
       <item itemvalue="Application.Polimorfizm" />
@@ -310,6 +474,21 @@
         <item itemvalue="Application.Polimorfizm" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Reusing_constructor" />
+=======
+      <item itemvalue="Application.Agregacja" />
+      <item itemvalue="Application.Super" />
+      <item itemvalue="Application.Interfacee" />
+      <item itemvalue="Application.Interface2" />
+      <item itemvalue="Application.Mathem" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mathem" />
+        <item itemvalue="Application.Interface2" />
+        <item itemvalue="Application.Interfacee" />
+        <item itemvalue="Application.Super" />
+        <item itemvalue="Application.Agregacja" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
       </list>
     </recent_temporary>
   </component>
@@ -322,17 +501,33 @@
       <created>1535005510191</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1535005510191</updated>
       <workItem from="1535005516443" duration="4821000" />
       <workItem from="1535094326573" duration="4268000" />
+=======
+      <updated>1534856554419</updated>
+      <workItem from="1534856559554" duration="5310000" />
+      <workItem from="1534938725885" duration="7321000" />
+      <workItem from="1535014526386" duration="7032000" />
+      <workItem from="1535108795775" duration="3219000" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="9089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-960" y="0" width="959" height="1081" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="22882000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="444" y="64" width="1327" height="1000" extended-state="0" />
+    <editor active="true" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -344,19 +539,31 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298611" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20996818" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2621469" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23112129" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35677353" />
+=======
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39887005" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -372,6 +579,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/this_keyword.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -401,6 +609,55 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Reusing_constructor.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Agregacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Super.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Switch_Nasted.java">
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
@@ -557,6 +814,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Instance_of.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="391">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
@@ -565,6 +823,109 @@
             <element signature="e#57#58#0" expanded="true" />
             <element signature="e#93#94#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factorial_number_silnia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bubble_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Selection_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Insertion_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linear_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interfacee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface/Interface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Super.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Agregacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Mathem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957
         </state>
       </provider>
     </entry>
