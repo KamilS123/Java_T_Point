@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package Search;
 
 public class Linear_Search {
 }
