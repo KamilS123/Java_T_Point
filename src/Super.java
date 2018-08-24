@@ -16,10 +16,13 @@ class Dog extends Animal{
         super(name, surname);
         this.color = color;
     }
-    void sound()
+    void sound() {
+        System.out.println(super.color);
+    }
 }
 public class Super {
     public static void main(String[] args) {
         Dog dog = new Dog("Papuga","Kowalska", "Czerwony");
+        dog.sound();
     }
 }
