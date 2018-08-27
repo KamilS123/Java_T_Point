@@ -13,5 +13,9 @@ public class Mathem {
         System.out.println("floor " + Math.floor(4.432));
         System.out.println("random " + Math.random()*10);
 
+        String s = "kon";
+        char[] c = s.toCharArray();
+        System.out.println(c);
+
     }
 }
