@@ -1,4 +1,8 @@
+<<<<<<< HEAD:src/Search/Binary_Search.java
+package Search;
+=======
 import java.util.Arrays;
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957:src/Binary_Search.java
 
 public class Binary_Search {
     public static void main(String[] args) {

@@ -1,4 +1,8 @@
+<<<<<<< HEAD:src/Search/Linear_Search.java
+package Search;
+=======
 import java.util.Arrays;
+>>>>>>> 1df47bcf8af5ee7a44d91644be06316d9c634957:src/Linear_Search.java
 
 public class Linear_Search {
     public static void main(String[] args) {
